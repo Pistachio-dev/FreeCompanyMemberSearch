@@ -1,0 +1,15 @@
+{
+  "Author": "Pistachio Herald",
+  "Name": "Free Company Member Search",
+  "Punchline": "Check on FC members in a way that sucks a bit less.",
+  "Description": "Check on FC members in a way that sucks a bit less.",
+  "ApplicableVersion": "any",
+  "InternalName": "FreeCompanyMemberSearch",
+  "Tags": [
+    "free",
+    "company",
+    "fc",
+    "member",
+    "search"
+  ]
+}
